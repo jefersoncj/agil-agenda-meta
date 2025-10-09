@@ -1,0 +1,6 @@
+[submodule "microservices/people-service"]
+	path = microservices/people-service
+	url = https://github.com/jefersoncj/people-service.git
+[submodule "microservices/schedule-service"]
+	path = microservices/schedule-service
+	url = https://github.com/jefersoncj/schedule-service.git
